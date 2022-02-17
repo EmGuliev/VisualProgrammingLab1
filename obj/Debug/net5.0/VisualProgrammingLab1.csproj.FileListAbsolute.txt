@@ -1,0 +1,16 @@
+C:\Users\Админ\source\repos\VisualProgrammingLab1\bin\Debug\net5.0\VisualProgrammingLab1.exe
+C:\Users\Админ\source\repos\VisualProgrammingLab1\bin\Debug\net5.0\VisualProgrammingLab1.deps.json
+C:\Users\Админ\source\repos\VisualProgrammingLab1\bin\Debug\net5.0\VisualProgrammingLab1.runtimeconfig.json
+C:\Users\Админ\source\repos\VisualProgrammingLab1\bin\Debug\net5.0\VisualProgrammingLab1.runtimeconfig.dev.json
+C:\Users\Админ\source\repos\VisualProgrammingLab1\bin\Debug\net5.0\VisualProgrammingLab1.dll
+C:\Users\Админ\source\repos\VisualProgrammingLab1\bin\Debug\net5.0\ref\VisualProgrammingLab1.dll
+C:\Users\Админ\source\repos\VisualProgrammingLab1\bin\Debug\net5.0\VisualProgrammingLab1.pdb
+C:\Users\Админ\source\repos\VisualProgrammingLab1\obj\Debug\net5.0\VisualProgrammingLab1.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\VisualProgrammingLab1\obj\Debug\net5.0\VisualProgrammingLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\VisualProgrammingLab1\obj\Debug\net5.0\VisualProgrammingLab1.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\VisualProgrammingLab1\obj\Debug\net5.0\VisualProgrammingLab1.AssemblyInfo.cs
+C:\Users\Админ\source\repos\VisualProgrammingLab1\obj\Debug\net5.0\VisualProgrammingLab1.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\VisualProgrammingLab1\obj\Debug\net5.0\VisualProgrammingLab1.dll
+C:\Users\Админ\source\repos\VisualProgrammingLab1\obj\Debug\net5.0\ref\VisualProgrammingLab1.dll
+C:\Users\Админ\source\repos\VisualProgrammingLab1\obj\Debug\net5.0\VisualProgrammingLab1.pdb
+C:\Users\Админ\source\repos\VisualProgrammingLab1\obj\Debug\net5.0\VisualProgrammingLab1.genruntimeconfig.cache

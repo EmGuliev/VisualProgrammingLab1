@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace VisualProgrammingLab1
 {
@@ -21,7 +21,7 @@ namespace VisualProgrammingLab1
             int[] customers4 = new int[] { 2, 3, 10 , 11, 21, 4};
             Console.WriteLine(HW1.QueueTime(customers4, n));
             n = 3;
-            int[] customers5 = new int[] { 2, 8, 10, 11, 9, 4 };
+            int[] customers5 = new int[] { 5, 5, 5, 2};
             Console.WriteLine(HW1.QueueTime(customers5, n));
 
         }
@@ -58,7 +58,7 @@ namespace VisualProgrammingLab1
                     for (int i = 0; i < n; i++)
                     {
                         queue[i] -= min;
-                        if (queue[i] < 1)
+                        if (queue[i] < 1 && cur < customers.Length)
                         {
                             queue[i] = customers[cur];
                             cur++;
